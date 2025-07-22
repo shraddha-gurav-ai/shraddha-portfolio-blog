@@ -25,3 +25,27 @@ Creating a portfolio as a fresher can feel overwhelming. In this blog, I’ll wa
 
 ### 1. Designed folder structure:
 
+
+
+### 2. Wrote code for homepage
+Used modern HTML5, a clean UI and added transitions.
+
+### 3. Added blog loader script:
+I used `fetch()` in JavaScript to display `.md` blog posts.
+
+---
+
+## 📌 Challenges
+
+- Hosting via GitHub Pages
+- Fixing layout for mobile
+- Markdown rendering with JS
+
+---
+
+## ✅ Final Thoughts
+
+This was a great learning experience. If you're a beginner, building your own site like this is the best way to stand out!
+
+Feel free to check out my [GitHub](https://github.com/shraddha-gurav-ai) or connect with me on [LinkedIn](https://linkedin.com/in/shraddha-gurav-090979373).
+
