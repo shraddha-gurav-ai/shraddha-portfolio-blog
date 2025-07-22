@@ -23,5 +23,22 @@
     <p>© 2025 Shraddha Gurav</p>
   </footer>
 </body>
+
+<section id="blog">
+  <h2>📚 My Blog</h2>
+  <div id="blog-content">Loading blog...</div>
+</section>
+
+<!-- Marked.js for converting Markdown to HTML -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script>
+  fetch('blog/big-post.md')
+    .then(res => res.text())
+    .then(text => {
+      document.getElementById('blog-content').innerHTML = marked.parse(text);
+    });
+</script>
+
 </html>
 
