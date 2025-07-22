@@ -25,3 +25,21 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
+
+#blog-content {
+  background: #f9fafb;
+  padding: 30px;
+  border-radius: 8px;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.7;
+}
+
+#blog-content h1, #blog-content h2 {
+  color: #1f2937;
+}
+
+#blog-content a {
+  color: #3b82f6;
+}
+
