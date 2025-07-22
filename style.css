@@ -43,3 +43,16 @@ footer {
   color: #3b82f6;
 }
 
+#blog {
+  padding: 40px;
+  background: #f9f9f9;
+}
+
+#blog-content {
+  background: white;
+  padding: 25px;
+  border-radius: 8px;
+  line-height: 1.7;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
