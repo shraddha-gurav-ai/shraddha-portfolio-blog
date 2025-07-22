@@ -49,3 +49,37 @@ This was a great learning experience. If you're a beginner, building your own si
 
 Feel free to check out my [GitHub](https://github.com/shraddha-gurav-ai) or connect with me on [LinkedIn](https://linkedin.com/in/shraddha-gurav-090979373).
 
+# How I Built This Portfolio Website ✨
+
+This is a walkthrough of how I created this portfolio site with a built-in blog using GitHub Pages.
+
+---
+
+## 🚀 Tools Used
+
+- HTML/CSS
+- GitHub Pages
+- Markdown
+- VS Code
+
+---
+
+## 💡 Key Features
+
+- Responsive portfolio layout
+- Blog written in Markdown
+- Hosted completely free
+
+---
+
+## ✅ Why You Should Try This
+
+If you're a fresher or job seeker, a personal portfolio with a blog can:
+- Show your coding skills
+- Show your writing and communication
+- Improve your chances with recruiters
+
+---
+
+Thanks for reading! 😊
+
